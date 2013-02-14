@@ -1,0 +1,15 @@
+{
+  "name": "assety",
+  "description": "assets compiler",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": "Lodoss team",
+  "repository": "",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "underscore": "~1.4.3"
+  },
+  "devDependencies": {}
+}
